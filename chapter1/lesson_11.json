@@ -1,0 +1,61 @@
+{
+  "id": "11",
+  "type": "LESSON",
+  "title": "ทำความสะอาดห้องรับแขก",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_12.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_10.json",
+  "quizzLink": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/quizz_6.json",
+  "quizzId": "6",
+  "previousQuizz": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/quizz_5.json",
+  "content" : [
+    {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/teccCAEAhx8xQ3imQ"},
+    {"h1": "อุปกรณ์ทำความสะอากห้องรับแขก"},
+    {"list": [
+      {"line": [
+        {"text": "ผ้าขนหนู"}
+      ]},
+      {"line": [
+        {"text": "ไม้กวาดบ้าน"}
+      ]},
+      {"line": [
+        {"text": "น้ำยาเช็ดกระจก"}
+      ]},
+      {"line": [
+        {"text": "แปรงเช็ดกระจก"}
+      ]},
+      {"line": [
+        {"text": "ไม้ปัดใยแมงมุม"}
+      ]},
+      {"line": [
+        {"text": "น้ำยาถูพึ้น"}
+      ]}
+    ]},
+    {"h1": "กระบวณการทำความสะอากห้องรับแขก"},
+    {"list": [
+      {"line": [
+        {"text": "ถ้าบนโต๊ะลูกค้ามีแก้ว ถ้วยกาน้ำชาก็นำไปล้างและตากแห้ง เมื่อทำความสะอาดเสร็จค่อยเอากลับมาไว้เหมือนเดิม"}
+      ]},
+      {"line": [
+        {"text": "กวาดฝุ่นเพดาน (ปิดโซฟาถ้าจำเป็น);"}
+      ]},
+      {"line": [
+        {"text": "ปัดฝุ่นม่านประตู ประตู หน้าต่าง เช็ดกระจก "}
+      ]},
+      {"line": [
+        {"text": "เช็ดโตะ เก้าอิ้ ตู้วางTV (ใช้ผ้าหมาด)"}
+      ]},
+      {"line": [
+        {"text": "กวาดหรือดุดฝุ่นพื้นบ้าน;"}
+      ]},
+      {"line": [
+        {"text": "ถูพื้น สำหรับพื้นไม้จะต้องเช็ดตามลายไม้ และต้องเช็ดด้วยผ้าเปลียกบีบให้แห้ง;"}
+      ]},
+      {"line": [
+        {"text": "เก็บและทิ้งขยะ;"}
+      ]},
+      {"line": [
+        {"text": "ดูรอบๆอีกครั้งเพื่อให้แน่ใจว่าทุกอย่างเสร็จสมบูณแล้ว"}
+      ]}
+    ]}
+  ]
+}
