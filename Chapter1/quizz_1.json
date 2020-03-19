@@ -1,0 +1,43 @@
+{
+  "id": "1",
+  "type": "QUIZZ",
+  "title": "บททดสอบทำความสะอาดบ้าน",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_7.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_6.json",
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "ในพื้นที่ต่อไปนี้พื้นที่ใดควรทำความสะอาดสุดท้าย",
+      "rightAnswer": [1],
+      "choices": [
+        "ห้องครัว",
+        "ห้องอาบน้ำ/toilet",
+        "ห้องนอน",
+        "ห้องรับแขก"
+      ]
+    },
+    {
+      "id": "1",
+      "type": "ONE_CHOICE",
+      "question": "ทำที่สะอาดก่อน ทำที่สกปกทีหลัง ทำห้องนอนก่อนถึงห้องรับแขก ห้องครัว ห้องอาบน้ำ และ ห้องส้วม",
+      "rightAnswer": [0],
+      "choices": [
+        "Đúng",
+        "Sai"
+      ]
+    },
+    {
+      "id": "2",
+      "type": "ONE_CHOICE",
+      "question": "ควรทิ้งขยะตอนไหน",
+      "rightAnswer": [1],
+      "choices": [
+        "ก่อนทำความสะอาด",
+        "หลังทำความสะอาดเสร็จ",
+        "ทิ้งก่อนและหลัง"
+      ]
+    }
+  ]
+}

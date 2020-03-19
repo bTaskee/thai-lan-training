@@ -1,0 +1,29 @@
+{
+  "id": "1",
+  "type": "LESSON",
+  "title": "อธิบายวิธีการรับงาน",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_2.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_0.json",
+  "quizzLink": null,
+  "content": [
+                {"h1": "โมเดล BTASKEE ทำงานอย่างไร"},
+                {"list": [
+                  {"line": [
+                    {"text": "เมื่อต้องการ ลูกค้าจะโพสต์ข้อมูลงานในระบบ รวมถึง: สถานที่ วันที่ เวลาเริ่มงาน ข้อกำหนดอื่น ๆ "}
+                  ]},
+                  {"line": [
+                    {"text": "ระบบจะส่งข้อมูลงานไปยังพนักงานทุกคน ผ่านแอปพลิเคชัน bTaskee บนโทรศัพท์ CTV พนักงานจะดูข้อมูลงานและเลือกงานที่เหมาะสมที่สุด"}
+                  ]},
+                  {"line": [
+                    {"text": "หลังจากได้รับงานเรียบร้อยแล้ว พนักงานจะยืนยันลูกค้าอีกครั้งด้วย"},
+                    {"strong": "แชทโดยตรงในแอปพลิเคชั่น"}
+                  ]},
+                  {"line": [
+                    {"text": "ถึงที่อยู่และเวลาเริ่มงาน พนักงานจะมาที่บ้านลูกค้าเพื่อทำงาน"}
+                  ]},
+                  {"line": [
+                    {"text": "หลังจากเสร็จงาน พนักงานจะรับเงินโดยตรงจากลูกค้า"}
+                  ]}
+                ]}
+              ]
+}
