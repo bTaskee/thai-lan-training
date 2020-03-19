@@ -1,0 +1,32 @@
+{
+  "id": "6",
+  "type": "QUIZZ",
+  "title": "บททำความสะอาดห้องรับแขก",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_12.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_11.json",
+  "questions": [
+    {
+      "id": "0",
+      "type": "MULTI_CHOICES",
+      "question": "หมายเหตุใดเมื่อทำความสะอาดชั้นวางของตู้ทีวี (สามารถเลือกได้หลายคำตอบ)",
+      "rightAnswer": [1, 3],
+      "choices": [
+        "ผ้าต้องแห้งชนิด ",
+        " ผ้าหมาดบิดแห้งแล้ว ",
+        " ฉีดน้ำยาเช็ดกระจกเช็ดเร็วๆ",
+        "ฉีดน้ำยาบนผ้าและเช็ด"
+      ]
+    },
+    {
+      "id": "1",
+      "type": "ONE_CHOICE",
+      "question": "บนโต๊ะมีแก้ว ต้องทำยังไง",
+      "rightAnswer": [1],
+      "choices": [
+        "เอาไว้เหมือนเดิม",
+        "เอาไปล้าง"
+      ]
+    }
+  ]
+}

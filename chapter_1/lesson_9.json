@@ -1,0 +1,78 @@
+{
+  "id": "9",
+  "type": "LESSON",
+  "title": "ทำความสะอาดห้องครัว",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_10.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_8.json",
+  "quizzLink": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/quizz_4.json",
+  "quizzId": "4",
+  "previousQuizz": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/quizz_3.json",
+  "content" : [
+    {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/SyRkuW4DXDeH5MxAd"},
+    {"h1": "อุปกรณ์เช็ด ทำความสะอาดห้องครัว"},
+    {"list": [
+      {"line": [
+        {"text": "ผ้าขนหนู"}
+      ]},
+      {"line": [
+        {"text": "ฟองน้ำล้างจาน"}
+      ]},
+      {"line": [
+        {"text": "ไม้กวาดบ้าน"}
+      ]},
+      {"line": [
+        {"text": "แปรงเช็ดกระจก"}
+      ]},
+      {"line": [
+        {"text": "ถุงมือ"}
+      ]},
+      {"line": [
+        {"text": "น้ำยาถูพื้น"}
+      ]},
+      {"line": [
+        {"text": "น้ำยาเช็ดกระจก"}
+      ]},
+      {"line": [
+        {"text": "ครีมฟอกสีอเนกประสงค์"}
+      ]},
+      {"line": [
+        {"text": "น้ำยาล้างจาน"}
+      ]},
+      {"line": [
+        {"text": "น้ำส้มสายชู"}
+      ]}
+    ]},
+    {"warning": "*หมายเหตุ: ห้ามใช้แผ่นเหล็ก / แผ่นอลูมิเนียมเช็ด เนื่องจากคุณสมบัติการขัดของพื้นผิวสัมผัสจะทำให้วัตถุเสียหาย"},
+    {"video": "iXyYJyq2L80"},
+    {"h1": "กระบวณการทำความสะอาดห้องครัว "},
+    {"list": [
+      {"line": [
+        {"text": "เก็บรวมถ้วยจานที่สกปรก หม้อ กระทะ ใส่เข้าไปในอ้างล้าง ล้างเสร็จก็เก็บวางเป็นที่เรียบร้อยให้แห้ง"}
+      ]},
+      {"line": [
+        {"text": "ล้างทำความสะอาดอ่างและเช็ดแห้งบริเวณรอบๆให้แห้งหลังจากล้างจานด้วย "}
+      ]},
+      {"line": [
+        {"text": "เช็ดตู้บนที่ทำกับข้าว จากบนลงล่าง"}
+      ]},
+      {"line": [
+        {"text": "ทำความสะอาดบริเวณห้องครัว: เช่นเครื่องดูดควัน พื้นผิวเตาแก๊ส เตาไฟฟ้าหม้อหุงข้าว หม้อต้มน้ำ เช็ดรอบๆบริเวณผนังเพราะมันมักจะเปื้อนน้ำมันเวลาทำอาหาร"}
+      ]},
+      {"line": [
+        {"text": "ถ้ามีอาหารเหลือวางที่โตะก็เรียง ห่อและเก็บตามความต้องการของลูกค้า "}
+      ]},
+      {"line": [
+        {"text": "ทำความสะอาดตู้เย็น ถ้าลูกค้าต้องการ"}
+      ]},
+      {"line": [
+        {"text": "กวาดหรือดุดฝุ่นพื้นบ้าน"}
+      ]},
+      {"line": [
+        {"text": " รวมเก็บและทิ้งขยะ ถ้ามีอาหารเหลือก่อนจะทิ้งต้องถามลูกค้า"}
+      ]},
+      {"line": [
+        {"text": "ดูรอบๆอีกครั้งเพื่อให้แน่ใจว่าทุกอย่างเสร็จสมบูณแล้ว"}
+      ]}
+    ]}
+  ]
+}
