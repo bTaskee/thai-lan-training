@@ -1,7 +1,7 @@
 {
   "id": "6",
   "type": "LESSON",
-  "title": "กฎระเบียบทำความสะอาดโดยรวม",
+  "title": "กฎระเบียบการทำความสะอาดโดยรวม",
   "nextLesson": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_7.json",
   "previousLesson": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_5.json",
   "quizzLink": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/quizz_1.json",
@@ -17,7 +17,7 @@
         {"text": "ทำความสะอาดสถานที่ที่สะอาดก่อน และสกปรกทีหลัง: เริ่มด้วยห้องนอน ไปห้องนั่งเล่น ห้องครัว ห้องน้ำ และ ห้องสุขา"}
       ]},
       {"line": [
-        {"text": "เมื่อเช็ดหรือทำความสะอาดสิ่งของต้องวางที่ตำแหน่งเดิมไว้ไห้ลูกค้า"}
+        {"text": "เมื่อเช็ดหรือทำความสะอาดสิ่งของ ต้องวางกลับที่เดิมให้กับลูกค้า"}
       ]},
       {"line": [
         {"text": "รวบรวมและทิ้งขยะหลังจากทำความสะอาด ก่อนทิ้งขยะควรสอบถามลูกค้าก่อน"}
