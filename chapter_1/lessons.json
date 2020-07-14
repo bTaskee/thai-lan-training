@@ -137,7 +137,7 @@
   {
     "id": "6",
     "type": "QUIZZ",
-    "title": "บททดสอบทำคววามสะอาดห้องรับแขก",
+    "title": "บททดสอบทำความสะอาดห้องรับแขก",
     "time": 10,
     "numberOfQuestions": 2,
     "link": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/quizz_6.json"
