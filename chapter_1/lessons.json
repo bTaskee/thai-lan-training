@@ -17,7 +17,7 @@
   {
     "id": "2",
     "type": "LESSON",
-    "title": "ประโยชน์เมื่อเป็นผู้ร่วมงาน",
+    "title": "ประโยชน์เมื่อเป็น bTasker",
     "time": 10,
     "link": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/lesson_2.json"
   },
@@ -92,7 +92,7 @@
   {
     "id": "3",
     "type": "QUIZZ",
-    "title": "บททดสอบการใช้สารเคมี",
+    "title": "บททดสอบการใช้น้ำยาทำความสะอาด",
     "time": 10,
     "numberOfQuestions": 3,
     "link": "https://raw.githubusercontent.com/bTaskee/thai-lan-training/master/chapter_1/quizz_3.json"
